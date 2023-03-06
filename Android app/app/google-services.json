@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951947974121",
+    "project_id": "fir-uploadanddownloadima-46843",
+    "storage_bucket": "fir-uploadanddownloadima-46843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951947974121:android:e6c1c19586bdd156fa6778",
+        "android_client_info": {
+          "package_name": "com.example.firebase_upload_and_download_images"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951947974121-7r3916s6ca2buuhfrelgbquj1rul0nja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxVXHK5BQO8BBzoulTMygqLegaOKs-wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951947974121-7r3916s6ca2buuhfrelgbquj1rul0nja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
